@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182342977492",
+    "project_id": "flutter-firebaseauth-gorouter",
+    "storage_bucket": "flutter-firebaseauth-gorouter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182342977492:android:03dd3cc77870d5761e7841",
+        "android_client_info": {
+          "package_name": "com.nijatnaghiyev.flutter_firebase_auth_go_router"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4rakll8JZTp64fJSgZHh6sX9opj4uQd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
