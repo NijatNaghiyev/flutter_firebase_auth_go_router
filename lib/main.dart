@@ -1,7 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_firebase_auth_go_router/router/routers.dart';
-import 'package:flutter_firebase_auth_go_router/screen/login_screen.dart';
 
 import 'firebase_options.dart';
 
